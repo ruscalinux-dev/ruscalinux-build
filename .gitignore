@@ -1,0 +1,11 @@
+# live-build working directory created by 1_config.sh
+/ruscalinux/
+
+# build artifacts
+*.iso
+*.img
+*.log
+.build/
+chroot/
+binary/
+cache/
